@@ -1,12 +1,16 @@
 
-/* 
+body{
+    background: black;
+}
 
-    You can write your own styles here...
+.row {
+    display: inline-flex;
+    background-color: black;
+    border: 2px solid white;
     
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+}
 
-*/
+.container {
+    text-align: center;
+    margin-top: 10%;
+}

@@ -1,0 +1,10 @@
+.holder {
+    display: inline-flex;
+    background-color: black;
+    color: white;
+    padding: 0.5em;
+    width: 2em;
+    height: auto;
+    font-size: 30pt;
+   
+}
